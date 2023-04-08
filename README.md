@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Analise Financeira
 - 🌱 Estudando Python e SQL 
-- 📫 Contate-me no e-mail: contatopessoalth@gmail.com
+- 📫 Contate-me no e-mail: thalesieq@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://www.linkedin.com/in/thales-alexandre-068b7a1b7/">
