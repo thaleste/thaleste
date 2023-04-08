@@ -1,7 +1,7 @@
 ## Olá! Eu sou Thales Alexandre
 
 - 🔭 Hoje trabalho com Analise Financeira
-- 🌱 Estudando Python e SQL 
+- 🌱 Estudando Back End, SQL, POWER BI
 - 📫 Contate-me no e-mail: thalesieq@gmail.com
 - 😄 Pronouns: ele/dele
 <div align="center">
